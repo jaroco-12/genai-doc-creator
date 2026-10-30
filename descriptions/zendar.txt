@@ -1,0 +1,45 @@
+Zendar builds a radar-centric autonomy stack which makes any vehicle - from cars to robots - autonomous in any environment. With our deep radar DNA, we have architected our solution to put RF sensing at the core of all perception. The result is a system that handles long range, high speeds, and bad weather not as edge cases but as a core strength of the autonomy stack.
+
+Because radars naturally measure both 3D position and velocity for every object in the environment, radar-centric autonomy is extremely compute- and data-efficient. Our autonomous vehicle needs only a few thousand dollars of hardware to make it completely autonomous, making this the cheapest way to build an autonomous vehicle by far.
+
+See a demo of Zendar’s foundational RF perception and driving functions.
+
+To develop this capability we had to build the entire stack in house - from radar sensor hardware to signal processing to multi-modal perception foundation models and path and trajectory planning. As part of a small team, you will have a front-row seat to seeing how a complete autonomy stack is architected and how your engineering decisions improve the ability to navigate autonomously in the real world.
+
+Although AI is central to what we build, our hiring process is intentionally human: every résumé is reviewed by a real person.
+
+Role Overview:
+We’re looking for a recent graduate to join us for a 6-month intern-to-hire role working across our robotics stack: perception, controls, simulation, and robot applications such as asset tracking and site monitoring. The common thread is measurement. You’ll design experiments and build the tools that tell us whether our systems work, how well, and why, then share what you find with the ML and control engineers who act on it. Priorities shift quickly, so this role suits someone who enjoys ambiguous problems, picks up new domains fast, and is excited to grow into a full-time engineer on the team.
+
+Key Responsibilities:
+Design and run experiments and test scenarios to measure system performance across perception models, controllers, and robotic applications.
+Build and extend Python tools for evaluation, data analysis, and visualization.
+Support simulation workflows, data collection, and hands-on testing with vehicles, robots, and sensors.
+Help prototype and evaluate robotic applications, such as security monitoring and container inventory management.
+Present findings to ML, controls, and product engineering teams, collaborating to track and resolve identified issues.
+What We’re Looking For:
+Recent graduate (Bachelor’s or Master’s degree) in engineering, physics, mathematics, or a related technical field.
+Proficiency in Python; experience with C++ is a plus.
+Familiarity with Linux environments.
+Experience using agentic coding tools (e.g., Claude Code, Cursor, Codex)
+Experience designing and conducting experiments from a scientific perspective and applying statistical analysis to extract insights from noisy, real-world data.
+Strong written and verbal communication skills, including the ability to clearly articulate technical results to both technical and non-technical stakeholders.
+Comfort with ambiguity: ability to drive loosely defined projects, adapt to evolving requirements, and rapidly master new technical domains.
+Bonus Points For
+Experience with GCP, BigQuery, or SQL.
+Experience processing sensor data (e.g., radar, LiDAR, camera feeds).
+Experience with and enthusiasm for working directly with hardware and robotics platforms, including vehicles and sensor test rigs.
+Familiarity with ROS or robotics simulation software.
+Coursework or experience in controls, dynamics, or state estimation (e.g., MPC, Kalman filters, odometry).
+Experience handling 3D data and spatial geometry, including point clouds, coordinate frames, and rigid-body transformations.
+Experience building data visualizations or interactive dashboards using tools such as Matplotlib, Plotly, or Streamlit.
+What We Have To Offer:
+Opportunity to make an impact at a young, venture-backed company in an emerging market
+Collaboration with smart and motivated engineers and ability to execute your vision in a high impact role
+Compensation $38.00-$40.00/hr
+40 hours/week in-office internship position for 6 months, flexible start date
+Daily catered lunch and a stocked fridge
+Opportunity for both the intern and the team to assess mutual fit for a potential full-time junior role.
+Zendar is committed to creating a diverse environment where talented people come to do their best work. We are proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.
+
+Zendar participates in E-Verify
