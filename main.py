@@ -3,7 +3,7 @@ import time
 from pathlib import Path
 
 
-MAX_RETRIES = 5
+MAX_RETRIES = 2
 DEFAULT_JOB_DESCRIPTION = Path("descriptions/zendar.txt")
 
 
@@ -78,14 +78,13 @@ def main():
     output_path = (
         Path(args.output)
         if args.output
-        else Path("output") / f"{job_path.stem}_resume.md"
+        else Path("output") / f"Jared Ocotlan Garcia - {job_path.stem}_resume.md"
     )
     output_path.parent.mkdir(parents=True, exist_ok=True)
     output_path.write_text(resume, encoding="utf-8")
 
     print(resume)
     print(f"\nWrote resume to {output_path}")
-
 
 if __name__ == "__main__":
     main()

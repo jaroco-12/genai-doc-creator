@@ -29,7 +29,7 @@ EXTRACTION_SYSTEM_INSTRUCTION = """
 
 def extract_keywords(client, job_text):
     response = client.models.generate_content(
-        model = "gemini-3.8-flash",
+        model = "gemini-3.5-flash",
         contents = f"Analyze the job description delimited below and map its technical requirements into the taxonomy schema.{job_text}",
         config={
             "response_mime_type": "application/json",
